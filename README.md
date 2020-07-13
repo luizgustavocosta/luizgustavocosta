@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 , I'm Luiz Gustavo :computer: 
 
+- 📫 How to reach me: Here on GitHub, on LinkedIn, Twitter or even by podcast Megatriada where I'm host
 <!--
 **luizgustavocosta/luizgustavocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
