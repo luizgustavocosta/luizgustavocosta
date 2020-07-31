@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Luiz Gustavo 
-- I'm brazilian :computer: working on :es:
+- I'm brazilian ⚽ 💻 working on Spain 🥘
 - 🔭 I’m currently working as a software engineer
 - 🌱 I’m currently learning the following topics: Write tutorial using md format, English language, Software design
 - ⚡ Fun fact: As brazilian when I speak I'm used finish the word in English always with a vogal
