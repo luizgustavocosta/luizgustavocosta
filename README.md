@@ -2,7 +2,7 @@
 - I'm brazilian ⚽ 💻 working on Spain 🥘
 - 🔭 I’m currently working as a software engineer
 - 🌱 I’m currently learning the following topics: Write tutorial using md format, English language, Software design
-- ⚡ Fun fact: As brazilian when I speak I'm used finish the word in English always with a vogal
+- ⚡ Fun fact: As brazilian when I speak I'm used finish the word in English always with a vowel
 - 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/luiz-gustavo-oliveira-costa-8989776/"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/linkedin-256.png" width=48></img></a>
