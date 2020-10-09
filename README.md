@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning the following topics: Write tutorial using md format, English language, Software design
 - ⚡ Fun fact: As a Brazilian when I speak I'm used to finishing the word in English always with a vowel
 - 📫 How to reach me:
-<a href="https://luizcosta.tech">Luiz Costa Tech</a>
-<a href="https://luizcosta.tech">Lugocast</a>
+<a href="https://luizcosta.tech"><img src="https://github.com/luizgustavocosta/luiz-costa-tech/blob/master/LCTech_circle.png" width=48/></a>
+<a href="https://lugocast.com"><img src="https://github.com/luizgustavocosta/luiz-costa-tech/blob/master/Lugocast_Circle.png" width=48/>Lugocast</a>
 <a href="https://www.linkedin.com/in/luiz-gustavo-oliveira-costa-8989776/"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/linkedin-256.png" width=48></img></a>
 <a href="https://twitter.com/lugoli"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/twitter-128.png" width="48"/></a>
 <a href="https://dev.to/luizgustavocosta"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" width=48></a>
