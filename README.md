@@ -1,4 +1,6 @@
-### Hi there 👋 , I'm Luiz Gustavo 
+### Hi there 👋 , I'm Luiz Gustavo
+- 🔭 I’m currently working as a software engineer
+- 🌱 I’m currently learning the following topics: Software design, and how manage the time and learn things.
 <!--- I'm a Brazilian ⚽ 💻 working in Spain 🥘
 - 🔭 I’m currently working as a software engineer
 - 🌱 I’m currently learning the following topics: Write tutorial using md format, English language, Software design
