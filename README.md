@@ -1,10 +1,6 @@
 ### Hi there 👋 , I'm Luiz Gustavo
 - 🔭 I’m currently working as a software engineer
-- 🌱 I’m currently learning the following topics: Software design, and how manage the time and learn things.
-<!--- I'm a Brazilian ⚽ 💻 working in Spain 🥘
-- 🔭 I’m currently working as a software engineer
-- 🌱 I’m currently learning the following topics: Write tutorial using md format, English language, Software design
-- ⚡ Fun fact: As a Brazilian when I speak I'm used to finishing the word in English always with a vowel-->
+- 🌱 I usually write about Java/Spring and tests. Follow me to more.
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/luiz-gustavo-oliveira-costa-8989776/"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/linkedin-256.png" width=48></img></a>
 <a href="https://twitter.com/luizcostatech"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/twitter-128.png" width="48"/></a>
